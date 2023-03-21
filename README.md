@@ -23,8 +23,7 @@ It is a binary classification algorithm, meaning it is used to predict the likel
 (such as "yes" or "no", "true" or "false", "success" or "failure", etc.).
 
 StandardScaler transforms the data such that the mean of each feature is zero and the variance is one.
-
-Finally, I also downloaded common python libraries for data manipulation such as pandas and numpy.
+I also downloaded common python libraries for data manipulation such as pandas and numpy.
 
 Model Report
 
