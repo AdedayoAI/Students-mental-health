@@ -27,6 +27,7 @@ StandardScaler transforms the data such that the mean of each feature is zero an
 Finally, I also downloaded common python libraries for data manipulation such as pandas and numpy.
 
 Model Report
+
 LOGISTIC REGRESSION
 
 The logistic regression model applied to the given dataset achieved an accuracy of 0.7097,
@@ -40,7 +41,9 @@ The f1 score of 0.6087 indicates that the model performed reasonably well, but t
 improvement and further analysis and model tuning may be necessary to increase the model's predictive power.
 
 Model Report
+
 RANDOM FOREST
+
 Based on the analysis of the dataset using a random forest model, we achieved an accuracy of 87%, 
 indicating that 87% of the predictions made by the model were correct.
 
