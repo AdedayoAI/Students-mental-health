@@ -25,9 +25,9 @@ It is a binary classification algorithm, meaning it is used to predict the likel
 StandardScaler transforms the data such that the mean of each feature is zero and the variance is one.
 I also downloaded common python libraries for data manipulation such as pandas and numpy.
 
-Model Report
+MODEL REPORT
 
-LOGISTIC REGRESSION
+Logistic Regression
 
 The logistic regression model applied to the given dataset achieved an accuracy of 0.7097,
 which indicates that 70.97% of the model's predictions were correct. The precision of the model is 0.5833, 
@@ -39,9 +39,8 @@ The f1 score of the model is 0.6087, which provides a measure of the model's ove
 The f1 score of 0.6087 indicates that the model performed reasonably well, but there is room for 
 improvement and further analysis and model tuning may be necessary to increase the model's predictive power.
 
-Model Report
 
-RANDOM FOREST
+Random Forest
 
 Based on the analysis of the dataset using a random forest model, we achieved an accuracy of 87%, 
 indicating that 87% of the predictions made by the model were correct.
@@ -56,7 +55,7 @@ Overall, the random forest model performed well in terms of accuracy and precisi
 indicating that it may struggle to identify all positive samples in the dataset. 
 Therefore, further analysis and optimization of the model may be necessary to improve its performance on this dataset.
 
-Conclusion
+CONCLUSION
 
 In conclusion, the student mental health dataset, with depression as the goal column, 
 offers important information about the causes of depression in students. Students' depression 
